@@ -1,6 +1,7 @@
 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 2
 =======
 2
@@ -10,3 +11,6 @@
 >>>>>>> 5053076 (update file1)
 =======
 >>>>>>> 41ef2c3 (change f1 and resolve f1)
+=======
+2
+>>>>>>> 480a93b (change file again and resolve)
